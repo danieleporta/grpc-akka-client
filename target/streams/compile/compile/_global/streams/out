@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/dapo/work/experiments/grpc-akka-client/project/target/.sbt-compilation-infos/grpc-akka-client-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 10 deprecation warnings[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 7 deprecation warnings (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 17 deprecation warnings in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
